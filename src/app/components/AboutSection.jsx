@@ -12,8 +12,15 @@ const TAB_DATA = [
         <li>Node.js</li>
         <li>Express</li>
         <li>PostgreSQL</li>
-        <li>Sequelize</li>
+        <li>Spring Boot</li>
         <li>JavaScript</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Docker</li>
+        <li>REST</li>
+        <li>C++</li>
+        <li>C</li>
+        <li>Project Management</li>
         <li>React</li>
       </ul>
     ),
@@ -23,8 +30,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Kalinga Institute of Industrial Technology, India</li>
+        <li>Arizona State University, Tempe Arizona USA.</li>
       </ul>
     ),
   },
@@ -33,8 +40,9 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Microsoft Technical Associate</li>
+        <li>Cloud Systems Administration.</li>
+        {/* <li>Google Professional Cloud Developer</li> */}
       </ul>
     ),
   },
@@ -58,11 +66,10 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+            interactive and responsive web applications. Ihave 2.5 years of 
+            professional work experience as a Software Engineer at Accenture, 
+            I worked for two critical projects which are Deutsche Telekom(T-Systems) 
+            and Accounting and Corporate Regulatory Authority (ACRA).
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
