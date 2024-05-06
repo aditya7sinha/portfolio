@@ -66,7 +66,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. Ihave 2.5 years of 
+            interactive and responsive web applications. I have 2.5 years of 
             professional work experience as a Software Engineer at Accenture, 
             I worked for two critical projects which are Deutsche Telekom(T-Systems) 
             and Accounting and Corporate Regulatory Authority (ACRA).
